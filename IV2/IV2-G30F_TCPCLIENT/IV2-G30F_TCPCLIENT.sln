@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IV2-G30F_TCPCLIENT", "IV2-G30F_TCPCLIENT.csproj", "{D3B75D37-A0C9-4CEC-AAAF-1E6333E068C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IV2_TCP_IP", "..\IV2_TCP_IP\IV2_TCP_IP.csproj", "{3DD6C774-2A14-4912-8749-BDE17611D3F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3B75D37-A0C9-4CEC-AAAF-1E6333E068C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3B75D37-A0C9-4CEC-AAAF-1E6333E068C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3B75D37-A0C9-4CEC-AAAF-1E6333E068C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3B75D37-A0C9-4CEC-AAAF-1E6333E068C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DD6C774-2A14-4912-8749-BDE17611D3F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DD6C774-2A14-4912-8749-BDE17611D3F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DD6C774-2A14-4912-8749-BDE17611D3F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DD6C774-2A14-4912-8749-BDE17611D3F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7A127C1-EF4F-4106-8D9B-45D745F86962}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+C:\Jabil Test\IV2_TCP_IP.dll
+C:\Jabil Test\IV2_TCP_IP.pdb
+C:\Users\DISA_Lenovo\Documents\DISA\PROYECTOS\DESARROLLOS MISC\CSHARP\IV2\IV2_TCP_IP\obj\Debug\IV2_TCP_IP.csproj.CoreCompileInputs.cache
+C:\Users\DISA_Lenovo\Documents\DISA\PROYECTOS\DESARROLLOS MISC\CSHARP\IV2\IV2_TCP_IP\obj\Debug\IV2_TCP_IP.dll
+C:\Users\DISA_Lenovo\Documents\DISA\PROYECTOS\DESARROLLOS MISC\CSHARP\IV2\IV2_TCP_IP\obj\Debug\IV2_TCP_IP.pdb
